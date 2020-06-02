@@ -1,2 +1,2 @@
 # pv_energy
-Calculate the solar energy available in certain area, and how much electric energy will you be able to generate at such location.
+Calculate the solar energy available at your roof, and how much electric energy will you be able to generate using photovoltaic panels
